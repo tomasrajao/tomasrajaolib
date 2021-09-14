@@ -128,8 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Pycharm
-.idea
-
-# VSCode
-.vscode
+# Sqlite3
+*.sqlite3
