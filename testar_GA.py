@@ -1,2 +1,2 @@
-def teste_gaa():
+def teste_gaa(a):
     pass
