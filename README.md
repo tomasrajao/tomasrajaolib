@@ -5,6 +5,17 @@ Nesse curso é ensinado como contribuir com códigos abertos
 
 Link do curso [Python Pro](https://plataforma.dev.pro.br)
 
+Para instalar:
+```
+python3 -m venv .venv
+source .venv/bin/venv
+pip install -r requirements-dev.txt
+```
+Para conferir qualidade de código:
+```git
+flake8
+```
+
 Tópicos a serem abordados:
 1. Git
 2. Virtualenv
