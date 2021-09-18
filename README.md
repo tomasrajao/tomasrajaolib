@@ -1,4 +1,4 @@
-# libpythonpro2
+# tomasrajaolib
 [![Updates](https://pyup.io/repos/github/tomasrajao/libpythonpro2/shield.svg)](https://pyup.io/repos/github/tomasrajao/libpythonpro2/)
 [![Python 3](https://pyup.io/repos/github/tomasrajao/libpythonpro2/python-3-shield.svg)](https://pyup.io/repos/github/tomasrajao/libpythonpro2/)
 
