@@ -1,6 +1,8 @@
 # tomasrajaolib
 [![Updates](https://pyup.io/repos/github/tomasrajao/libpythonpro2/shield.svg)](https://pyup.io/repos/github/tomasrajao/libpythonpro2/)
 [![Python 3](https://pyup.io/repos/github/tomasrajao/libpythonpro2/python-3-shield.svg)](https://pyup.io/repos/github/tomasrajao/libpythonpro2/)
+![example workflow](https://github.com/tomasrajao/tomasrajaolib/actions/workflows/test.yml/badge.svg)
+
 
 Módulo para exemplificar construção de projetos Python no curso Pytools
 
