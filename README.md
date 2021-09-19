@@ -1,7 +1,11 @@
 # tomasrajaolib
-[![Updates](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/shield.svg)](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/)
 [![Python 3](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/python-3-shield.svg)](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/)
+
 ![example workflow](https://github.com/tomasrajao/tomasrajaolib/actions/workflows/test.yml/badge.svg)
+
+[![Updates](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/shield.svg)](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/)
+
+[![codecov](https://codecov.io/gh/tomasrajao/tomasrajaolib/branch/main/graph/badge.svg?token=D3L9PMGK7P)](https://codecov.io/gh/tomasrajao/tomasrajaolib)
 
 
 Módulo para exemplificar construção de projetos Python no curso Pytools
