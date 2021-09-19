@@ -1,6 +1,6 @@
 # tomasrajaolib
-[![Updates](https://pyup.io/repos/github/tomasrajao/libpythonpro2/shield.svg)](https://pyup.io/repos/github/tomasrajao/libpythonpro2/)
-[![Python 3](https://pyup.io/repos/github/tomasrajao/libpythonpro2/python-3-shield.svg)](https://pyup.io/repos/github/tomasrajao/libpythonpro2/)
+[![Updates](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/shield.svg)](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/)
+[![Python 3](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/python-3-shield.svg)](https://pyup.io/repos/github/tomasrajao/tomasrajaolib/)
 ![example workflow](https://github.com/tomasrajao/tomasrajaolib/actions/workflows/test.yml/badge.svg)
 
 
