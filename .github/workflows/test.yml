@@ -31,6 +31,6 @@ jobs:
           pytest tomasrajaolib --cov=tomarajaolib
       - name: Cobertura de testes com codecov
         env:
-          CODECOV_TOKEN: '3c8193f5-2a9a-4a14-9a7c-75d17c64631e'
+           super_secret: ${{ secrets.CODECOV_TOKEN }}
         run: |
-          codecov
+            codecov
