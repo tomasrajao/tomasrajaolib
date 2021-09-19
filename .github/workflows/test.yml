@@ -30,6 +30,11 @@ jobs:
         run: |
           pytest tomasrajaolib --cov=tomarajaolib
       - name: Cobertura de testes com codecov
+<<<<<<<<< Temporary merge branch 1
+        uses: codecov/codecov-action@v2
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+=========
         env:
            super_secret: ${{ secrets.CODECOV_TOKEN }}
         run: |
