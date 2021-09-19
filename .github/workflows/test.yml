@@ -33,4 +33,4 @@ jobs:
         env:
            super_secret: ${{ secrets.CODECOV_TOKEN }}
         run: |
-            codecov
+            codecov -t {{ secrets.CODECOV_TOKEN }}
