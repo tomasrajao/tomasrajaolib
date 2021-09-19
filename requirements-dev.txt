@@ -12,4 +12,9 @@ py==1.10.0
 pytest==6.2.5
 toml==0.10.2
 
+#Coverage
+coverage==5.5
+pytest-cov==2.12.1
+
+
 -r requirements.txt
