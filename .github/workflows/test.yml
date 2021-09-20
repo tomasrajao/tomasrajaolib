@@ -31,7 +31,7 @@ jobs:
           pytest tomasrajaolib --cov=tomarajaolib
       - name: Cobertura de testes com codecov
         uses: |
-          tomasrajaolib/tomasrajaolib@v1
+          tomasrajao/tomasrajaolib@v1
           codecov/codecov-action@v1
         with:
             token: ${{secrets.CODECOV_TOKEN}}
