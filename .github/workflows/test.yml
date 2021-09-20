@@ -30,7 +30,6 @@ jobs:
         run: |
           pytest tomasrajaolib --cov=tomarajaolib
       - name: Cobertura de testes com codecov
-        env:
-            CODECOV_TOKEN: ${{secrets.CODECOV_TOKEN}}
-        run: |
-            codecov -t CODECOV_TOKEN
+        uses: codecov/codecov-action@v2
+        with:
+            token: ${{secrets.CODECOV_TOKEN}}
