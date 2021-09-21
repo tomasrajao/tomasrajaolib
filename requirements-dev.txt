@@ -7,21 +7,15 @@
 attrs==21.2.0
     # via pytest
 certifi==2021.5.30
-    # via
-    #   -r requirements.txt
-    #   requests
-charset-normalizer==2.0.5
-    # via
-    #   -r requirements.txt
-    #   requests
+    # via requests
+charset-normalizer==2.0.6
+    # via requests
 coverage==5.5
     # via pytest-cov
 flake8==3.9.2
     # via -r requirements-dev.in
 idna==3.2
-    # via
-    #   -r requirements.txt
-    #   requests
+    # via requests
 iniconfig==1.1.1
     # via pytest
 mccabe==0.6.1
@@ -48,12 +42,10 @@ pytest-cov==2.12.1
 pytest-mock==3.6.1
     # via -r requirements-dev.in
 requests==2.26.0
-    # via -r requirements.txt
+    # via -r requirements.in
 toml==0.10.2
     # via
     #   pytest
     #   pytest-cov
 urllib3==1.26.6
-    # via
-    #   -r requirements.txt
-    #   requests
+    # via requests
