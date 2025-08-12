@@ -8,7 +8,7 @@ attrs==21.2.0
     # via pytest
 certifi==2021.5.30
     # via requests
-charset-normalizer==2.0.6
+charset-normalizer==3.4.3
     # via requests
 coverage==5.5
     # via pytest-cov
