@@ -6,7 +6,7 @@
 #
 attrs==21.2.0
     # via pytest
-certifi==2021.5.30
+certifi==2025.8.3
     # via requests
 charset-normalizer==2.0.6
     # via requests
