@@ -20,7 +20,7 @@ iniconfig==1.1.1
     # via pytest
 mccabe==0.6.1
     # via flake8
-packaging==21.0
+packaging==25.0
     # via pytest
 pluggy==1.0.0
     # via pytest
