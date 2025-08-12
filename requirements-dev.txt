@@ -37,7 +37,7 @@ pytest==6.2.5
     #   -r requirements-dev.in
     #   pytest-cov
     #   pytest-mock
-pytest-cov==2.12.1
+pytest-cov==6.2.1
     # via -r requirements-dev.in
 pytest-mock==3.6.1
     # via -r requirements-dev.in
