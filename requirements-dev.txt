@@ -41,7 +41,7 @@ pytest-cov==2.12.1
     # via -r requirements-dev.in
 pytest-mock==3.6.1
     # via -r requirements-dev.in
-requests==2.26.0
+requests==2.32.4
     # via -r requirements.in
 toml==0.10.2
     # via
